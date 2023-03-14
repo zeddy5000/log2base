@@ -11,15 +11,16 @@ public class OptimizedBubble {
         int i,j,temp;
         for(i = 0; i < rawArr.length-1; i++){
             boolean swapped = false;
-            for(j = 0; j < i -1; j++){
+            for(j = 0; j < rawArr.length -1; j++){
                 if(rawArr[j] > rawArr[j + 1]){
                     temp = rawArr[j];
                     rawArr[j] = rawArr[j + 1];
                     rawArr[j + 1] = temp;
                     swapped = true;
                 }
+                if(!swapped) break;
             }
-            if(swapped == false) break;
+
         }
     }
     private static void dispArr(int [] sortedArr){
