@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e3bbb56-efff-46cd-9a81-8a9b11de028c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/MergeSortOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/MruApps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/OptimizedBubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/OptimizedBubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/MergeSortOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/MergeSortOpt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSortOpt">
+  <component name="RunManager" selected="Application.MruApps">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.BubbleSort" />
       <module name="log2base" />
@@ -67,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.MergeSort" />
+    <configuration name="BubbleSortOpt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.BubbleSortOpt" />
       <module name="log2base" />
       <extension name="coverage">
         <pattern>
@@ -82,6 +79,19 @@
     </configuration>
     <configuration name="MergeSortOpt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.MergeSortOpt" />
+      <module name="log2base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MruApps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.MruApps" />
       <module name="log2base" />
       <extension name="coverage">
         <pattern>
@@ -108,10 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MruApps" />
+        <item itemvalue="Application.BubbleSortOpt" />
         <item itemvalue="Application.MergeSortOpt" />
         <item itemvalue="Application.OptimizedBubble" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.MergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +136,7 @@
       <updated>1678705582279</updated>
       <workItem from="1678705583635" duration="7989000" />
       <workItem from="1678720303124" duration="6102000" />
-      <workItem from="1678782541175" duration="7529000" />
+      <workItem from="1678782541175" duration="13789000" />
     </task>
     <servers />
   </component>
