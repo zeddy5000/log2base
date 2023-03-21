@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e3bbb56-efff-46cd-9a81-8a9b11de028c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/LuminariesException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/QuickSortOpt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/QuickSortOpt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/QuickSortOpt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuickSortOpt">
+  <component name="RunManager" selected="Application.MergeSortOpt">
     <configuration name="MergeSortOpt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.MergeSortOpt" />
       <module name="log2base" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MruApps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.MruApps" />
+    <configuration name="MergeStTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kataTest.MergeStTest" />
       <module name="log2base" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="kataTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSortOpt" />
         <item itemvalue="Application.MergeSortOpt" />
+        <item itemvalue="Application.MergeStTest" />
+        <item itemvalue="Application.QuickSortOpt" />
         <item itemvalue="Application.MergeSortTest" />
         <item itemvalue="Application.Msort" />
-        <item itemvalue="Application.MruApps" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,7 @@
       <workItem from="1678885825957" duration="2425000" />
       <workItem from="1678955603648" duration="6748000" />
       <workItem from="1679232971179" duration="75000" />
-      <workItem from="1679331467563" duration="7446000" />
+      <workItem from="1679331467563" duration="10802000" />
     </task>
     <servers />
   </component>
